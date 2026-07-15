@@ -1,0 +1,441 @@
+Position,Name,ELO,Date,Age,Year,Age_Group,ELO_Change,Era,Is_World_No1,Appearances
+7,Adams,2715,2000 Jan,28,2000,26-30,0,Kasparov Era,No,13
+4,Adams,2746,2001 Jan,29,2001,26-30,31,Kasparov Era,No,13
+4,Adams,2742,2002 Jan,30,2002,26-30,-4,Kasparov Era,No,13
+6,Adams,2734,2003 Jan,31,2003,31-35,-8,Kasparov Era,No,13
+11,Adams,2720,2004 Jan,32,2004,31-35,-14,Kasparov Era,No,13
+7,Adams,2741,2005 Jan,33,2005,31-35,21,Kasparov Era,No,13
+17,Adams,2707,2006 Jan,34,2006,31-35,-34,Kasparov Era,No,13
+9,Adams,2735,2007 Jan,35,2007,31-35,28,Transition,No,13
+16,Adams,2726,2008 Jan,36,2008,36+,-9,Transition,No,13
+13,Adams,2754,2014 Jan,42,2014,36+,28,Carlsen Era,No,13
+17,Adams,2738,2015 Jan,43,2015,36+,-16,Carlsen Era,No,13
+20,Adams,2744,2016 Jan,44,2016,36+,6,Carlsen Era,No,13
+17,Adams,2751,2017 Jan,45,2017,36+,7,Carlsen Era,No,13
+11,Akopian,2703,2003 Jan,31,2003,31-35,0,Kasparov Era,No,5
+19,Akopian,2693,2004 Jan,32,2004,31-35,-10,Kasparov Era,No,5
+17,Akopian,2693,2005 Jan,33,2005,31-35,0,Kasparov Era,No,5
+18,Akopian,2704,2006 Jan,34,2006,31-35,11,Kasparov Era,No,5
+20,Akopian,2700,2007 Jan,35,2007,31-35,-4,Transition,No,5
+20,Alekseev,2711,2008 Jan,22,2008,17-25,0,Transition,No,1
+18,Almasi,2676,2000 Jan,23,2000,17-25,0,Kasparov Era,No,1
+2,Anand,2769,2000 Jan,30,2000,26-30,0,Kasparov Era,No,22
+2,Anand,2790,2001 Jan,31,2001,31-35,21,Kasparov Era,No,22
+3,Anand,2757,2002 Jan,32,2002,31-35,-33,Kasparov Era,No,22
+3,Anand,2753,2003 Jan,33,2003,31-35,-4,Kasparov Era,No,22
+3,Anand,2766,2004 Jan,34,2004,31-35,13,Kasparov Era,No,22
+2,Anand,2786,2005 Jan,35,2005,31-35,20,Kasparov Era,No,22
+3,Anand,2792,2006 Jan,36,2006,36+,6,Kasparov Era,No,22
+2,Anand,2779,2007 Jan,37,2007,36+,-13,Transition,No,22
+2,Anand,2799,2008 Jan,38,2008,36+,20,Transition,No,22
+2,Anand,2791,2009 Jan,39,2009,36+,-8,Transition,No,22
+3,Anand,2790,2010 Jan,40,2010,36+,-1,Carlsen Era,No,22
+2,Anand,2810,2011 Jan,41,2011,36+,20,Carlsen Era,No,22
+4,Anand,2799,2012 Jan,42,2012,36+,-11,Carlsen Era,No,22
+7,Anand,2772,2013 Jan,43,2013,36+,-27,Carlsen Era,No,22
+9,Anand,2773,2014 Jan,44,2014,36+,1,Carlsen Era,No,22
+5,Anand,2797,2015 Jan,45,2015,36+,24,Carlsen Era,No,22
+8,Anand,2784,2016 Jan,46,2016,36+,-13,Carlsen Era,No,22
+6,Anand,2786,2017 Jan,47,2017,36+,2,Carlsen Era,No,22
+11,Anand,2767,2018 Jan,48,2018,36+,-19,Carlsen Era,No,22
+8,Anand,2773,2019 Jan,49,2019,36+,6,Carlsen Era,No,22
+13,Anand,2758,2020 Jan,50,2020,36+,-15,Carlsen Era,No,22
+16,Anand,2753,2021 Jan,51,2021,36+,-5,Carlsen Era,No,22
+18,Andreikin,2737,2015 Jan,24,2015,17-25,0,Carlsen Era,No,1
+5,Aronian,2752,2006 Jan,23,2006,17-25,0,Kasparov Era,No,16
+7,Aronian,2744,2007 Jan,24,2007,17-25,-8,Transition,No,16
+10,Aronian,2739,2008 Jan,25,2008,17-25,-5,Transition,No,16
+11,Aronian,2750,2009 Jan,26,2009,26-30,11,Transition,No,16
+5,Aronian,2781,2010 Jan,27,2010,26-30,31,Carlsen Era,No,16
+3,Aronian,2805,2011 Jan,28,2011,26-30,24,Carlsen Era,No,16
+2,Aronian,2805,2012 Jan,29,2012,26-30,0,Carlsen Era,No,16
+3,Aronian,2802,2013 Jan,30,2013,26-30,-3,Carlsen Era,No,16
+2,Aronian,2812,2014 Jan,31,2014,31-35,10,Carlsen Era,No,16
+6,Aronian,2797,2015 Jan,32,2015,31-35,-15,Carlsen Era,No,16
+4,Aronian,2792,2016 Jan,33,2016,31-35,-5,Carlsen Era,No,16
+9,Aronian,2780,2017 Jan,34,2017,31-35,-12,Carlsen Era,No,16
+4,Aronian,2797,2018 Jan,35,2018,31-35,17,Carlsen Era,No,16
+10,Aronian,2767,2019 Jan,36,2019,36+,-30,Carlsen Era,No,16
+6,Aronian,2773,2020 Jan,37,2020,36+,6,Carlsen Era,No,16
+6,Aronian,2781,2021 Jan,38,2021,36+,8,Carlsen Era,No,16
+19,Azmaiparashvili,2675,2000 Jan,39,2000,36+,0,Kasparov Era,No,1
+9,Bacrot,2715,2005 Jan,21,2005,17-25,0,Kasparov Era,No,4
+13,Bacrot,2717,2006 Jan,22,2006,17-25,2,Kasparov Era,No,4
+18,Bacrot,2705,2007 Jan,23,2007,17-25,-12,Transition,No,4
+17,Bacrot,2738,2014 Jan,30,2014,26-30,33,Carlsen Era,No,4
+9,Bareev,2709,2000 Jan,33,2000,31-35,0,Kasparov Era,No,7
+11,Bareev,2709,2001 Jan,34,2001,31-35,0,Kasparov Era,No,7
+12,Bareev,2707,2002 Jan,35,2002,31-35,-2,Kasparov Era,No,7
+8,Bareev,2729,2003 Jan,36,2003,36+,22,Kasparov Era,No,7
+14,Bareev,2714,2004 Jan,37,2004,36+,-15,Kasparov Era,No,7
+13,Bareev,2709,2005 Jan,38,2005,36+,-5,Kasparov Era,No,7
+20,Bareev,2698,2006 Jan,39,2006,36+,-11,Kasparov Era,No,7
+19,Bologan,2684,2001 Jan,29,2001,26-30,0,Kasparov Era,No,1
+13,Carlsen,2733,2008 Jan,17,2008,17-25,0,Transition,No,14
+4,Carlsen,2776,2009 Jan,18,2009,17-25,43,Transition,No,14
+1,Carlsen,2810,2010 Jan,19,2010,17-25,34,Carlsen Era,Yes,14
+1,Carlsen,2814,2011 Jan,20,2011,17-25,4,Carlsen Era,Yes,14
+1,Carlsen,2835,2012 Jan,21,2012,17-25,21,Carlsen Era,Yes,14
+1,Carlsen,2861,2013 Jan,22,2013,17-25,26,Carlsen Era,Yes,14
+1,Carlsen,2872,2014 Jan,23,2014,17-25,11,Carlsen Era,Yes,14
+1,Carlsen,2862,2015 Jan,24,2015,17-25,-10,Carlsen Era,Yes,14
+1,Carlsen,2844,2016 Jan,25,2016,17-25,-18,Carlsen Era,Yes,14
+1,Carlsen,2840,2017 Jan,26,2017,26-30,-4,Carlsen Era,Yes,14
+1,Carlsen,2834,2018 Jan,27,2018,26-30,-6,Carlsen Era,Yes,14
+1,Carlsen,2835,2019 Jan,28,2019,26-30,1,Carlsen Era,Yes,14
+1,Carlsen,2872,2020 Jan,29,2020,26-30,37,Carlsen Era,Yes,14
+1,Carlsen,2862,2021 Jan,30,2021,26-30,-10,Carlsen Era,Yes,14
+17,Caruana,2736,2012 Jan,19,2012,17-25,0,Carlsen Era,No,10
+5,Caruana,2781,2013 Jan,20,2013,17-25,45,Carlsen Era,No,10
+6,Caruana,2782,2014 Jan,21,2014,17-25,1,Carlsen Era,No,10
+2,Caruana,2820,2015 Jan,22,2015,17-25,38,Carlsen Era,No,10
+5,Caruana,2787,2016 Jan,23,2016,17-25,-33,Carlsen Era,No,10
+2,Caruana,2827,2017 Jan,24,2017,17-25,40,Carlsen Era,No,10
+2,Caruana,2811,2018 Jan,25,2018,17-25,-16,Carlsen Era,No,10
+2,Caruana,2828,2019 Jan,26,2019,26-30,17,Carlsen Era,No,10
+2,Caruana,2822,2020 Jan,27,2020,26-30,-6,Carlsen Era,No,10
+2,Caruana,2823,2021 Jan,28,2021,26-30,1,Carlsen Era,No,10
+19,Cheparinov,2713,2008 Jan,21,2008,17-25,0,Transition,No,1
+12,Ding Liren,2766,2016 Jan,23,2016,17-25,0,Carlsen Era,No,6
+14,Ding Liren,2760,2017 Jan,24,2017,17-25,-6,Carlsen Era,No,6
+9,Ding Liren,2769,2018 Jan,25,2018,17-25,9,Carlsen Era,No,6
+4,Ding Liren,2813,2019 Jan,26,2019,26-30,44,Carlsen Era,No,6
+3,Ding Liren,2805,2020 Jan,27,2020,26-30,-8,Carlsen Era,No,6
+3,Ding Liren,2791,2021 Jan,28,2021,26-30,-14,Carlsen Era,No,6
+14,Dominguez Perez,2754,2014 Jan,30,2014,26-30,0,Carlsen Era,No,3
+15,Dominguez Perez,2758,2020 Jan,36,2020,36+,4,Carlsen Era,No,3
+14,Dominguez Perez,2758,2021 Jan,37,2021,36+,0,Carlsen Era,No,3
+16,Dreev,2680,2000 Jan,30,2000,26-30,0,Kasparov Era,No,6
+18,Dreev,2685,2001 Jan,31,2001,31-35,5,Kasparov Era,No,6
+20,Dreev,2683,2002 Jan,32,2002,31-35,-2,Kasparov Era,No,6
+18,Dreev,2690,2003 Jan,33,2003,31-35,7,Kasparov Era,No,6
+20,Dreev,2682,2004 Jan,34,2004,31-35,-8,Kasparov Era,No,6
+14,Dreev,2704,2005 Jan,35,2005,31-35,22,Kasparov Era,No,6
+19,Duda,2738,2019 Jan,20,2019,17-25,0,Carlsen Era,No,3
+16,Duda,2758,2020 Jan,21,2020,17-25,20,Carlsen Era,No,3
+19,Duda,2743,2021 Jan,22,2021,17-25,-15,Carlsen Era,No,3
+14,Eljanov,2736,2010 Jan,26,2010,26-30,0,Carlsen Era,No,3
+13,Eljanov,2760,2016 Jan,32,2016,31-35,24,Carlsen Era,No,3
+15,Eljanov,2755,2017 Jan,33,2017,31-35,-5,Carlsen Era,No,3
+14,Fedorov,2684,2000 Jan,27,2000,26-30,0,Kasparov Era,No,1
+18,Firouzja,2749,2021 Jan,17,2021,17-25,0,Carlsen Era,No,1
+19,Gashimov,2723,2009 Jan,22,2009,17-25,0,Transition,No,5
+7,Gashimov,2759,2010 Jan,23,2010,17-25,36,Carlsen Era,No,5
+13,Gashimov,2736,2011 Jan,24,2011,17-25,-23,Carlsen Era,No,5
+10,Gashimov,2761,2012 Jan,25,2012,17-25,25,Carlsen Era,No,5
+18,Gashimov,2737,2013 Jan,26,2013,26-30,-24,Carlsen Era,No,5
+13,Gelfand,2692,2000 Jan,31,2000,31-35,0,Kasparov Era,No,16
+10,Gelfand,2712,2001 Jan,32,2001,31-35,20,Kasparov Era,No,16
+11,Gelfand,2708,2002 Jan,33,2002,31-35,-4,Kasparov Era,No,16
+14,Gelfand,2700,2003 Jan,34,2003,31-35,-8,Kasparov Era,No,16
+15,Gelfand,2709,2004 Jan,35,2004,31-35,9,Kasparov Era,No,16
+16,Gelfand,2696,2005 Jan,36,2005,36+,-13,Kasparov Era,No,16
+9,Gelfand,2723,2006 Jan,37,2006,36+,27,Kasparov Era,No,16
+10,Gelfand,2733,2007 Jan,38,2007,36+,10,Transition,No,16
+11,Gelfand,2737,2008 Jan,39,2008,36+,4,Transition,No,16
+15,Gelfand,2733,2009 Jan,40,2009,36+,-4,Transition,No,16
+6,Gelfand,2761,2010 Jan,41,2010,36+,28,Carlsen Era,No,16
+16,Gelfand,2733,2011 Jan,42,2011,36+,-28,Carlsen Era,No,16
+16,Gelfand,2739,2012 Jan,43,2012,36+,6,Carlsen Era,No,16
+16,Gelfand,2740,2013 Jan,44,2013,36+,1,Carlsen Era,No,16
+8,Gelfand,2777,2014 Jan,45,2014,36+,37,Carlsen Era,No,16
+14,Gelfand,2747,2015 Jan,46,2015,36+,-30,Carlsen Era,No,16
+17,Georgiev,2677,2000 Jan,34,2000,31-35,0,Kasparov Era,No,1
+19,Giri,2734,2014 Jan,19,2014,17-25,0,Carlsen Era,No,8
+7,Giri,2784,2015 Jan,20,2015,17-25,50,Carlsen Era,No,8
+3,Giri,2798,2016 Jan,21,2016,17-25,14,Carlsen Era,No,8
+10,Giri,2773,2017 Jan,22,2017,17-25,-25,Carlsen Era,No,8
+15,Giri,2752,2018 Jan,23,2018,17-25,-21,Carlsen Era,No,8
+5,Giri,2783,2019 Jan,24,2019,17-25,31,Carlsen Era,No,8
+9,Giri,2768,2020 Jan,25,2020,17-25,-15,Carlsen Era,No,8
+11,Giri,2764,2021 Jan,26,2021,26-30,-4,Carlsen Era,No,8
+10,Grischuk,2712,2003 Jan,19,2003,17-25,0,Kasparov Era,No,18
+12,Grischuk,2719,2004 Jan,20,2004,17-25,7,Kasparov Era,No,18
+12,Grischuk,2710,2005 Jan,21,2005,17-25,-9,Kasparov Era,No,18
+12,Grischuk,2717,2006 Jan,22,2006,17-25,7,Kasparov Era,No,18
+16,Grischuk,2717,2007 Jan,23,2007,17-25,0,Transition,No,18
+14,Grischuk,2733,2009 Jan,25,2009,17-25,16,Transition,No,18
+15,Grischuk,2736,2010 Jan,26,2010,26-30,3,Carlsen Era,No,18
+7,Grischuk,2773,2011 Jan,27,2011,26-30,37,Carlsen Era,No,18
+11,Grischuk,2761,2012 Jan,28,2012,26-30,-12,Carlsen Era,No,18
+11,Grischuk,2764,2013 Jan,29,2013,26-30,3,Carlsen Era,No,18
+7,Grischuk,2777,2014 Jan,30,2014,26-30,13,Carlsen Era,No,18
+3,Grischuk,2810,2015 Jan,31,2015,31-35,33,Carlsen Era,No,18
+15,Grischuk,2752,2016 Jan,32,2016,31-35,-58,Carlsen Era,No,18
+20,Grischuk,2742,2017 Jan,33,2017,31-35,-10,Carlsen Era,No,18
+12,Grischuk,2767,2018 Jan,34,2018,31-35,25,Carlsen Era,No,18
+9,Grischuk,2771,2019 Jan,35,2019,31-35,4,Carlsen Era,No,18
+4,Grischuk,2777,2020 Jan,36,2020,36+,6,Carlsen Era,No,18
+7,Grischuk,2777,2021 Jan,37,2021,36+,0,Carlsen Era,No,18
+12,Gurevich Mikhail,2694,2000 Jan,40,2000,36+,0,Kasparov Era,No,2
+14,Gurevich Mikhail,2694,2001 Jan,41,2001,36+,0,Kasparov Era,No,2
+14,Harikrishna,2755,2016 Jan,29,2016,26-30,0,Carlsen Era,No,3
+12,Harikrishna,2766,2017 Jan,30,2017,26-30,11,Carlsen Era,No,3
+20,Harikrishna,2745,2018 Jan,31,2018,31-35,-21,Carlsen Era,No,3
+8,Ivanchuk,2709,2000 Jan,30,2000,26-30,0,Kasparov Era,No,16
+9,Ivanchuk,2717,2001 Jan,31,2001,31-35,8,Kasparov Era,No,16
+8,Ivanchuk,2717,2002 Jan,32,2002,31-35,0,Kasparov Era,No,16
+15,Ivanchuk,2699,2003 Jan,33,2003,31-35,-18,Kasparov Era,No,16
+13,Ivanchuk,2716,2004 Jan,34,2004,31-35,17,Kasparov Era,No,16
+11,Ivanchuk,2711,2005 Jan,35,2005,31-35,-5,Kasparov Era,No,16
+8,Ivanchuk,2729,2006 Jan,36,2006,36+,18,Kasparov Era,No,16
+5,Ivanchuk,2750,2007 Jan,37,2007,36+,21,Transition,No,16
+9,Ivanchuk,2751,2008 Jan,38,2008,36+,1,Transition,No,16
+3,Ivanchuk,2779,2009 Jan,39,2009,36+,28,Transition,No,16
+8,Ivanchuk,2749,2010 Jan,40,2010,36+,-30,Carlsen Era,No,16
+9,Ivanchuk,2764,2011 Jan,41,2011,36+,15,Carlsen Era,No,16
+8,Ivanchuk,2766,2012 Jan,42,2012,36+,2,Carlsen Era,No,16
+13,Ivanchuk,2758,2013 Jan,43,2013,36+,-8,Carlsen Era,No,16
+16,Ivanchuk,2739,2014 Jan,44,2014,36+,-19,Carlsen Era,No,16
+16,Ivanchuk,2752,2017 Jan,47,2017,36+,13,Carlsen Era,No,16
+17,Jakovenko,2720,2008 Jan,24,2008,17-25,0,Transition,No,4
+7,Jakovenko,2760,2009 Jan,25,2009,17-25,40,Transition,No,4
+19,Jakovenko,2730,2010 Jan,26,2010,26-30,-30,Carlsen Era,No,4
+20,Jakovenko,2734,2013 Jan,29,2013,26-30,4,Carlsen Era,No,4
+19,Kamsky,2705,2007 Jan,32,2007,31-35,0,Transition,No,6
+15,Kamsky,2726,2008 Jan,33,2008,31-35,21,Transition,No,6
+17,Kamsky,2725,2009 Jan,34,2009,31-35,-1,Transition,No,6
+19,Kamsky,2730,2011 Jan,36,2011,36+,5,Carlsen Era,No,6
+20,Kamsky,2732,2012 Jan,37,2012,36+,2,Carlsen Era,No,6
+17,Kamsky,2740,2013 Jan,38,2013,36+,8,Carlsen Era,No,6
+14,Karjakin,2732,2008 Jan,17,2008,17-25,0,Transition,No,12
+5,Karjakin,2776,2011 Jan,20,2011,17-25,44,Carlsen Era,No,12
+7,Karjakin,2769,2012 Jan,21,2012,17-25,-7,Carlsen Era,No,12
+6,Karjakin,2780,2013 Jan,22,2013,17-25,11,Carlsen Era,No,12
+10,Karjakin,2759,2014 Jan,23,2014,17-25,-21,Carlsen Era,No,12
+11,Karjakin,2760,2015 Jan,24,2015,17-25,1,Carlsen Era,No,12
+11,Karjakin,2769,2016 Jan,25,2016,17-25,9,Carlsen Era,No,12
+8,Karjakin,2785,2017 Jan,26,2017,26-30,16,Carlsen Era,No,12
+14,Karjakin,2753,2018 Jan,27,2018,26-30,-32,Carlsen Era,No,12
+15,Karjakin,2753,2019 Jan,28,2019,26-30,0,Carlsen Era,No,12
+18,Karjakin,2752,2020 Jan,29,2020,26-30,-1,Carlsen Era,No,12
+15,Karjakin,2757,2021 Jan,30,2021,26-30,5,Carlsen Era,No,12
+11,Karpov,2696,2000 Jan,48,2000,36+,0,Kasparov Era,No,4
+20,Karpov,2679,2001 Jan,49,2001,36+,-17,Kasparov Era,No,4
+16,Karpov,2693,2002 Jan,50,2002,36+,14,Kasparov Era,No,4
+20,Karpov,2688,2003 Jan,51,2003,36+,-5,Kasparov Era,No,4
+15,Kasimdzhanov,2693,2001 Jan,21,2001,17-25,0,Kasparov Era,No,2
+15,Kasimdzhanov,2695,2002 Jan,22,2002,17-25,2,Kasparov Era,No,2
+1,Kasparov,2851,2000 Jan,36,2000,36+,0,Kasparov Era,Yes,7
+1,Kasparov,2849,2001 Jan,37,2001,36+,-2,Kasparov Era,Yes,7
+1,Kasparov,2838,2002 Jan,38,2002,36+,-11,Kasparov Era,Yes,7
+1,Kasparov,2847,2003 Jan,39,2003,36+,9,Kasparov Era,Yes,7
+1,Kasparov,2831,2004 Jan,40,2004,36+,-16,Kasparov Era,Yes,7
+1,Kasparov,2804,2005 Jan,41,2005,36+,-27,Kasparov Era,Yes,7
+1,Kasparov,2812,2006 Jan,42,2006,36+,8,Kasparov Era,Yes,7
+16,Khalifman,2690,2001 Jan,34,2001,31-35,0,Kasparov Era,No,3
+18,Khalifman,2688,2002 Jan,35,2002,31-35,-2,Kasparov Era,No,3
+12,Khalifman,2702,2003 Jan,36,2003,36+,14,Kasparov Era,No,3
+3,Kramnik,2758,2000 Jan,24,2000,17-25,0,Kasparov Era,No,22
+3,Kramnik,2772,2001 Jan,25,2001,17-25,14,Kasparov Era,No,22
+2,Kramnik,2809,2002 Jan,26,2002,26-30,37,Kasparov Era,No,22
+2,Kramnik,2809,2003 Jan,27,2003,26-30,0,Kasparov Era,No,22
+2,Kramnik,2777,2004 Jan,28,2004,26-30,-32,Kasparov Era,No,22
+4,Kramnik,2754,2005 Jan,29,2005,26-30,-23,Kasparov Era,No,22
+6,Kramnik,2741,2006 Jan,30,2006,26-30,-13,Kasparov Era,No,22
+3,Kramnik,2766,2007 Jan,31,2007,31-35,25,Transition,No,22
+1,Kramnik,2799,2008 Jan,32,2008,31-35,33,Transition,Yes,22
+8,Kramnik,2759,2009 Jan,33,2009,31-35,-40,Transition,No,22
+4,Kramnik,2788,2010 Jan,34,2010,31-35,29,Carlsen Era,No,22
+4,Kramnik,2784,2011 Jan,35,2011,31-35,-4,Carlsen Era,No,22
+3,Kramnik,2801,2012 Jan,36,2012,36+,17,Carlsen Era,No,22
+2,Kramnik,2810,2013 Jan,37,2013,36+,9,Carlsen Era,No,22
+4,Kramnik,2787,2014 Jan,38,2014,36+,-23,Carlsen Era,No,22
+8,Kramnik,2783,2015 Jan,39,2015,36+,-4,Carlsen Era,No,22
+2,Kramnik,2801,2016 Jan,40,2016,36+,18,Carlsen Era,No,22
+3,Kramnik,2811,2017 Jan,41,2017,36+,10,Carlsen Era,No,22
+7,Kramnik,2787,2018 Jan,42,2018,36+,-24,Carlsen Era,No,22
+7,Kramnik,2777,2019 Jan,43,2019,36+,-10,Carlsen Era,No,22
+17,Kramnik,2753,2020 Jan,44,2020,36+,-24,Carlsen Era,No,22
+17,Kramnik,2753,2021 Jan,45,2021,36+,0,Carlsen Era,No,22
+19,Lautier,2687,2002 Jan,28,2002,26-30,0,Kasparov Era,No,1
+6,Leko,2725,2000 Jan,20,2000,17-25,0,Kasparov Era,No,12
+5,Leko,2745,2001 Jan,21,2001,17-25,20,Kasparov Era,No,12
+10,Leko,2713,2002 Jan,22,2002,17-25,-32,Kasparov Era,No,12
+5,Leko,2736,2003 Jan,23,2003,17-25,23,Kasparov Era,No,12
+10,Leko,2722,2004 Jan,24,2004,17-25,-14,Kasparov Era,No,12
+5,Leko,2749,2005 Jan,25,2005,17-25,27,Kasparov Era,No,12
+7,Leko,2740,2006 Jan,26,2006,26-30,-9,Kasparov Era,No,12
+6,Leko,2749,2007 Jan,27,2007,26-30,9,Transition,No,12
+8,Leko,2753,2008 Jan,28,2008,26-30,4,Transition,No,12
+9,Leko,2751,2009 Jan,29,2009,26-30,-2,Transition,No,12
+12,Leko,2739,2010 Jan,30,2010,26-30,-12,Carlsen Era,No,12
+19,Leko,2735,2013 Jan,33,2013,31-35,-4,Carlsen Era,No,12
+16,Li Chao,2751,2016 Jan,26,2016,26-30,0,Carlsen Era,No,1
+18,Malakhov,2700,2004 Jan,23,2004,17-25,0,Kasparov Era,No,1
+15,Mamedyarov,2709,2006 Jan,20,2006,17-25,0,Kasparov Era,No,16
+4,Mamedyarov,2754,2007 Jan,21,2007,17-25,45,Transition,No,16
+6,Mamedyarov,2760,2008 Jan,22,2008,17-25,6,Transition,No,16
+18,Mamedyarov,2724,2009 Jan,23,2009,17-25,-36,Transition,No,16
+11,Mamedyarov,2741,2010 Jan,24,2010,17-25,17,Carlsen Era,No,16
+8,Mamedyarov,2772,2011 Jan,25,2011,17-25,31,Carlsen Era,No,16
+14,Mamedyarov,2747,2012 Jan,26,2012,26-30,-25,Carlsen Era,No,16
+10,Mamedyarov,2766,2013 Jan,27,2013,26-30,19,Carlsen Era,No,16
+12,Mamedyarov,2757,2014 Jan,28,2014,26-30,-9,Carlsen Era,No,16
+12,Mamedyarov,2759,2015 Jan,29,2015,26-30,2,Carlsen Era,No,16
+19,Mamedyarov,2747,2016 Jan,30,2016,26-30,-12,Carlsen Era,No,16
+13,Mamedyarov,2766,2017 Jan,31,2017,31-35,19,Carlsen Era,No,16
+3,Mamedyarov,2804,2018 Jan,32,2018,31-35,38,Carlsen Era,No,16
+3,Mamedyarov,2817,2019 Jan,33,2019,31-35,13,Carlsen Era,No,16
+8,Mamedyarov,2770,2020 Jan,34,2020,31-35,-47,Carlsen Era,No,16
+8,Mamedyarov,2770,2021 Jan,35,2021,31-35,0,Carlsen Era,No,16
+5,Morozevich,2748,2000 Jan,22,2000,17-25,0,Kasparov Era,No,12
+6,Morozevich,2745,2001 Jan,23,2001,17-25,-3,Kasparov Era,No,12
+5,Morozevich,2742,2002 Jan,24,2002,17-25,-3,Kasparov Era,No,12
+7,Morozevich,2732,2004 Jan,26,2004,26-30,-10,Kasparov Era,No,12
+6,Morozevich,2741,2005 Jan,27,2005,26-30,9,Kasparov Era,No,12
+11,Morozevich,2721,2006 Jan,28,2006,26-30,-20,Kasparov Era,No,12
+8,Morozevich,2741,2007 Jan,29,2007,26-30,20,Transition,No,12
+4,Morozevich,2765,2008 Jan,30,2008,26-30,24,Transition,No,12
+5,Morozevich,2771,2009 Jan,31,2009,31-35,6,Transition,No,12
+17,Morozevich,2732,2010 Jan,32,2010,31-35,-39,Carlsen Era,No,12
+9,Morozevich,2763,2012 Jan,34,2012,31-35,31,Carlsen Era,No,12
+12,Morozevich,2758,2013 Jan,35,2013,31-35,-5,Carlsen Era,No,12
+10,Movsesian S,2751,2009 Jan,30,2009,26-30,0,Transition,No,1
+10,Nakamura,2751,2011 Jan,23,2011,17-25,0,Carlsen Era,No,10
+12,Nakamura,2759,2012 Jan,24,2012,17-25,8,Carlsen Era,No,10
+9,Nakamura,2769,2013 Jan,25,2013,17-25,10,Carlsen Era,No,10
+3,Nakamura,2789,2014 Jan,26,2014,26-30,20,Carlsen Era,No,10
+9,Nakamura,2776,2015 Jan,27,2015,26-30,-13,Carlsen Era,No,10
+6,Nakamura,2787,2016 Jan,28,2016,26-30,11,Carlsen Era,No,10
+7,Nakamura,2785,2017 Jan,29,2017,26-30,-2,Carlsen Era,No,10
+8,Nakamura,2781,2018 Jan,30,2018,26-30,-4,Carlsen Era,No,10
+16,Nakamura,2749,2019 Jan,31,2019,31-35,-32,Carlsen Era,No,10
+20,Nakamura,2736,2021 Jan,33,2021,31-35,-13,Carlsen Era,No,10
+15,Navara,2719,2007 Jan,21,2007,17-25,0,Transition,No,3
+17,Navara,2749,2018 Jan,32,2018,31-35,30,Carlsen Era,No,3
+18,Navara,2738,2019 Jan,33,2019,31-35,-11,Carlsen Era,No,3
+15,Nepomniachtchi,2733,2011 Jan,20,2011,17-25,0,Carlsen Era,No,7
+18,Nepomniachtchi,2735,2012 Jan,21,2012,17-25,2,Carlsen Era,No,7
+11,Nepomniachtchi,2767,2017 Jan,26,2017,26-30,32,Carlsen Era,No,7
+16,Nepomniachtchi,2751,2018 Jan,27,2018,26-30,-16,Carlsen Era,No,7
+13,Nepomniachtchi,2763,2019 Jan,28,2019,26-30,12,Carlsen Era,No,7
+5,Nepomniachtchi,2774,2020 Jan,29,2020,26-30,11,Carlsen Era,No,7
+4,Nepomniachtchi,2789,2021 Jan,30,2021,26-30,15,Carlsen Era,No,7
+13,Polgar J,2700,2003 Jan,26,2003,26-30,0,Kasparov Era,No,4
+8,Polgar J,2728,2004 Jan,27,2004,26-30,28,Kasparov Era,No,4
+14,Polgar J,2711,2006 Jan,29,2006,26-30,-17,Kasparov Era,No,4
+13,Polgar J,2727,2007 Jan,30,2007,26-30,16,Transition,No,4
+7,Ponomariov,2727,2002 Jan,18,2002,17-25,0,Kasparov Era,No,10
+7,Ponomariov,2734,2003 Jan,19,2003,17-25,7,Kasparov Era,No,10
+9,Ponomariov,2722,2004 Jan,20,2004,17-25,-12,Kasparov Era,No,10
+15,Ponomariov,2700,2005 Jan,21,2005,17-25,-22,Kasparov Era,No,10
+10,Ponomariov,2723,2006 Jan,22,2006,17-25,23,Kasparov Era,No,10
+14,Ponomariov,2723,2007 Jan,23,2007,17-25,0,Transition,No,10
+18,Ponomariov,2719,2008 Jan,24,2008,17-25,-4,Transition,No,10
+16,Ponomariov,2726,2009 Jan,25,2009,17-25,7,Transition,No,10
+13,Ponomariov,2737,2010 Jan,26,2010,26-30,11,Carlsen Era,No,10
+11,Ponomariov,2744,2011 Jan,27,2011,26-30,7,Carlsen Era,No,10
+19,Radjabov,2700,2006 Jan,18,2006,17-25,0,Kasparov Era,No,13
+11,Radjabov,2729,2007 Jan,19,2007,17-25,29,Transition,No,13
+12,Radjabov,2735,2008 Jan,20,2008,17-25,6,Transition,No,13
+6,Radjabov,2761,2009 Jan,21,2009,17-25,26,Transition,No,13
+16,Radjabov,2733,2010 Jan,22,2010,17-25,-28,Carlsen Era,No,13
+12,Radjabov,2744,2011 Jan,23,2011,17-25,11,Carlsen Era,No,13
+5,Radjabov,2773,2012 Jan,24,2012,17-25,29,Carlsen Era,No,13
+4,Radjabov,2793,2013 Jan,25,2013,17-25,20,Carlsen Era,No,13
+20,Radjabov,2734,2015 Jan,27,2015,26-30,-59,Carlsen Era,No,13
+19,Radjabov,2748,2018 Jan,30,2018,26-30,14,Carlsen Era,No,13
+14,Radjabov,2757,2019 Jan,31,2019,31-35,9,Carlsen Era,No,13
+11,Radjabov,2765,2020 Jan,32,2020,31-35,8,Carlsen Era,No,13
+10,Radjabov,2765,2021 Jan,33,2021,31-35,0,Carlsen Era,No,13
+14,Rapport,2758,2020 Jan,23,2020,17-25,0,Carlsen Era,No,2
+13,Rapport,2759,2021 Jan,24,2021,17-25,1,Carlsen Era,No,2
+4,Shirov,2751,2000 Jan,27,2000,26-30,0,Kasparov Era,No,11
+7,Shirov,2718,2001 Jan,28,2001,26-30,-33,Kasparov Era,No,11
+9,Shirov,2715,2002 Jan,29,2002,26-30,-3,Kasparov Era,No,11
+9,Shirov,2723,2003 Jan,30,2003,26-30,8,Kasparov Era,No,11
+5,Shirov,2736,2004 Jan,31,2004,31-35,13,Kasparov Era,No,11
+10,Shirov,2713,2005 Jan,32,2005,31-35,-23,Kasparov Era,No,11
+16,Shirov,2709,2006 Jan,33,2006,31-35,-4,Kasparov Era,No,11
+17,Shirov,2715,2007 Jan,34,2007,31-35,6,Transition,No,11
+7,Shirov,2755,2008 Jan,35,2008,31-35,40,Transition,No,11
+12,Shirov,2745,2009 Jan,36,2009,36+,-10,Transition,No,11
+20,Shirov,2723,2010 Jan,37,2010,36+,-22,Carlsen Era,No,11
+15,Short,2683,2000 Jan,34,2000,31-35,0,Kasparov Era,No,3
+17,Short,2690,2003 Jan,37,2003,36+,7,Kasparov Era,No,3
+17,Short,2702,2004 Jan,38,2004,36+,12,Kasparov Era,No,3
+17,Smirin,2686,2001 Jan,32,2001,31-35,0,Kasparov Era,No,2
+13,Smirin,2702,2002 Jan,33,2002,31-35,16,Kasparov Era,No,2
+10,So,2762,2015 Jan,21,2015,17-25,0,Carlsen Era,No,7
+10,So,2773,2016 Jan,22,2016,17-25,11,Carlsen Era,No,7
+4,So,2808,2017 Jan,23,2017,17-25,35,Carlsen Era,No,7
+6,So,2792,2018 Jan,24,2018,17-25,-16,Carlsen Era,No,7
+11,So,2765,2019 Jan,25,2019,17-25,-27,Carlsen Era,No,7
+10,So,2765,2020 Jan,26,2020,26-30,0,Carlsen Era,No,7
+9,So,2770,2021 Jan,27,2021,26-30,5,Carlsen Era,No,7
+19,Sokolov Ivan,2688,2003 Jan,34,2003,31-35,0,Kasparov Era,No,3
+16,Sokolov Ivan,2706,2004 Jan,35,2004,31-35,18,Kasparov Era,No,3
+19,Sokolov Ivan,2685,2005 Jan,36,2005,36+,-21,Kasparov Era,No,3
+20,Svidler,2672,2000 Jan,23,2000,17-25,0,Kasparov Era,No,20
+13,Svidler,2695,2001 Jan,24,2001,17-25,23,Kasparov Era,No,20
+17,Svidler,2688,2002 Jan,25,2002,17-25,-7,Kasparov Era,No,20
+16,Svidler,2693,2003 Jan,26,2003,26-30,5,Kasparov Era,No,20
+4,Svidler,2747,2004 Jan,27,2004,26-30,54,Kasparov Era,No,20
+8,Svidler,2735,2005 Jan,28,2005,26-30,-12,Kasparov Era,No,20
+4,Svidler,2765,2006 Jan,29,2006,26-30,30,Kasparov Era,No,20
+12,Svidler,2728,2007 Jan,30,2007,26-30,-37,Transition,No,20
+5,Svidler,2763,2008 Jan,31,2008,31-35,35,Transition,No,20
+20,Svidler,2723,2009 Jan,32,2009,31-35,-40,Transition,No,20
+10,Svidler,2744,2010 Jan,33,2010,31-35,21,Carlsen Era,No,20
+18,Svidler,2730,2011 Jan,34,2011,31-35,-14,Carlsen Era,No,20
+13,Svidler,2749,2012 Jan,35,2012,31-35,19,Carlsen Era,No,20
+15,Svidler,2747,2013 Jan,36,2013,36+,-2,Carlsen Era,No,20
+11,Svidler,2758,2014 Jan,37,2014,36+,11,Carlsen Era,No,20
+16,Svidler,2739,2015 Jan,38,2015,36+,-19,Carlsen Era,No,20
+17,Svidler,2751,2016 Jan,39,2016,36+,12,Carlsen Era,No,20
+19,Svidler,2748,2017 Jan,40,2017,36+,-3,Carlsen Era,No,20
+10,Svidler,2768,2018 Jan,41,2018,36+,20,Carlsen Era,No,20
+20,Svidler,2737,2019 Jan,42,2019,36+,-31,Carlsen Era,No,20
+15,Tomashevsky,2740,2012 Jan,24,2012,17-25,0,Carlsen Era,No,1
+10,Topalov,2702,2000 Jan,24,2000,17-25,0,Kasparov Era,No,20
+8,Topalov,2718,2001 Jan,25,2001,17-25,16,Kasparov Era,No,20
+6,Topalov,2739,2002 Jan,26,2002,26-30,21,Kasparov Era,No,20
+4,Topalov,2743,2003 Jan,27,2003,26-30,4,Kasparov Era,No,20
+6,Topalov,2735,2004 Jan,28,2004,26-30,-8,Kasparov Era,No,20
+3,Topalov,2757,2005 Jan,29,2005,26-30,22,Kasparov Era,No,20
+2,Topalov,2801,2006 Jan,30,2006,26-30,44,Kasparov Era,No,20
+1,Topalov,2783,2007 Jan,31,2007,31-35,-18,Transition,Yes,20
+3,Topalov,2780,2008 Jan,32,2008,31-35,-3,Transition,No,20
+1,Topalov,2796,2009 Jan,33,2009,31-35,16,Transition,Yes,20
+2,Topalov,2805,2010 Jan,34,2010,31-35,9,Carlsen Era,No,20
+6,Topalov,2775,2011 Jan,35,2011,31-35,-30,Carlsen Era,No,20
+6,Topalov,2770,2012 Jan,36,2012,36+,-5,Carlsen Era,No,20
+8,Topalov,2771,2013 Jan,37,2013,36+,1,Carlsen Era,No,20
+5,Topalov,2785,2014 Jan,38,2014,36+,14,Carlsen Era,No,20
+4,Topalov,2800,2015 Jan,39,2015,36+,15,Carlsen Era,No,20
+9,Topalov,2780,2016 Jan,40,2016,36+,-20,Carlsen Era,No,20
+18,Topalov,2749,2018 Jan,42,2018,36+,-31,Carlsen Era,No,20
+17,Topalov,2740,2019 Jan,43,2019,36+,-9,Carlsen Era,No,20
+20,Topalov,2738,2020 Jan,44,2020,36+,-2,Carlsen Era,No,20
+18,Vachier-Lagrave,2730,2010 Jan,19,2010,17-25,0,Carlsen Era,No,9
+15,Vachier-Lagrave,2745,2014 Jan,23,2014,17-25,15,Carlsen Era,No,9
+13,Vachier-Lagrave,2757,2015 Jan,24,2015,17-25,12,Carlsen Era,No,9
+7,Vachier-Lagrave,2785,2016 Jan,25,2016,17-25,28,Carlsen Era,No,9
+5,Vachier-Lagrave,2796,2017 Jan,26,2017,26-30,11,Carlsen Era,No,9
+5,Vachier-Lagrave,2793,2018 Jan,27,2018,26-30,-3,Carlsen Era,No,9
+6,Vachier-Lagrave,2780,2019 Jan,28,2019,26-30,-13,Carlsen Era,No,9
+7,Vachier-Lagrave,2770,2020 Jan,29,2020,26-30,-10,Carlsen Era,No,9
+5,Vachier-Lagrave,2784,2021 Jan,30,2021,26-30,14,Carlsen Era,No,9
+18,Vallejo Pons,2686,2005 Jan,22,2005,17-25,0,Kasparov Era,No,1
+12,Van Wely,2700,2001 Jan,28,2001,26-30,0,Kasparov Era,No,2
+14,Van Wely,2697,2002 Jan,29,2002,26-30,-3,Kasparov Era,No,2
+18,Vitiugov,2737,2014 Jan,26,2014,26-30,0,Carlsen Era,No,3
+19,Vitiugov,2735,2015 Jan,27,2015,26-30,-2,Carlsen Era,No,3
+19,Vitiugov,2747,2020 Jan,32,2020,31-35,12,Carlsen Era,No,3
+20,Volokitin,2685,2005 Jan,18,2005,17-25,0,Kasparov Era,No,1
+17,Wang Hao,2731,2011 Jan,21,2011,17-25,0,Carlsen Era,No,6
+19,Wang Hao,2733,2012 Jan,22,2012,17-25,2,Carlsen Era,No,6
+14,Wang Hao,2752,2013 Jan,23,2013,17-25,19,Carlsen Era,No,6
+20,Wang Hao,2734,2014 Jan,24,2014,17-25,-18,Carlsen Era,No,6
+12,Wang Hao,2758,2020 Jan,30,2020,26-30,24,Carlsen Era,No,6
+12,Wang Hao,2763,2021 Jan,31,2021,31-35,5,Carlsen Era,No,6
+13,Wang Yue,2739,2009 Jan,21,2009,17-25,0,Transition,No,3
+9,Wang Yue,2749,2010 Jan,22,2010,17-25,10,Carlsen Era,No,3
+14,Wang Yue,2734,2011 Jan,23,2011,17-25,-15,Carlsen Era,No,3
+20,Wojtaszek,2726,2011 Jan,23,2011,17-25,0,Carlsen Era,No,3
+15,Wojtaszek,2744,2015 Jan,27,2015,26-30,18,Carlsen Era,No,3
+18,Wojtaszek,2750,2017 Jan,29,2017,26-30,6,Carlsen Era,No,3
+18,Yu Yangyi,2747,2016 Jan,21,2016,17-25,0,Carlsen Era,No,3
+13,Yu Yangyi,2760,2018 Jan,23,2018,17-25,13,Carlsen Era,No,3
+12,Yu Yangyi,2764,2019 Jan,24,2019,17-25,4,Carlsen Era,No,3
