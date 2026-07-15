@@ -1,2 +1,1 @@
-# chess-analytics-dashboard
-Interactive Chess Analytics Dashboard built using Looker Studio and Python for data analysis and visualization.
+LOOKER STUDIO : CHESS ANALYSIS DASHBOARD LINK : https://datastudio.google.com/reporting/7010a2fe-f677-49aa-a477-b8618d82dbf6
